@@ -6,9 +6,9 @@ Driver can accept it to move forward with the transportation from one location t
 This system is very flexible and easy to use platform. This application can be accessed by Driver and Client.  
   
 Libraries:
-Java Animation for Splash Screen
-KenBurns view library
-Recycler view library
-Picasso library
-Google Maps API – pinpoint
-Google Maps API – autocomplete place fragement
+Java Animation for Splash Screen,
+KenBurns view library,
+Recycler view library,
+Picasso library,
+Google Maps API – pinpoint,
+Google Maps API – autocomplete place fragement.
